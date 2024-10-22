@@ -34,8 +34,6 @@ This is a simple RESTful API for managing personal financial transactions using 
 
 ### GET /summary
 
-## Contact
-Created by [[@Vamshi-1999](https://github.com/Vamshi-1999)] - feel free to contact me!
 
 
 ```json
@@ -45,3 +43,7 @@ Created by [[@Vamshi-1999](https://github.com/Vamshi-1999)] - feel free to conta
   "balance": 5000
 }
 ```
+
+## Contact
+Created by [[@Vamshi-1999](https://github.com/Vamshi-1999)] - feel free to contact me!
+
